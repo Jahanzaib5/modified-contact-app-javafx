@@ -14,7 +14,7 @@
 This application will show Contact’s full name and picture with the names in sorted order by last name..
 #
 
-## Attention:
+## !!!Attention!!!
 # Not all parts of this application are working fine, as the project is not completed yet due to some problems in the building process. cheers!
 
 
