@@ -15,8 +15,8 @@ This application will show Contact’s full name and picture with the names in s
 #
 
 #
-![](images/b2.JPG)
-#
 ![](images/b1.JPG)
+#
+![](images/b2.JPG)
 
 
